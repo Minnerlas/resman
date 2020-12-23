@@ -1,3 +1,3 @@
-= Simple resource manager
+# Simple resource manager
 
-WIP
+# WIP
